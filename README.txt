@@ -26,6 +26,8 @@ Increase Brand awareness: Grow awareness of brand, compare YoY growth based on Y
 
 - Code
 
+- Under the prod folder you will see the following Jupyter Scripts
+
 - kick_off.ipynb: will iterate through each city and run the clean_auto_Causual_Impact_IO.ipynb
 
 - clean_auto_Causual_Impact_IO.ipynb: will have all the causal impact logic
