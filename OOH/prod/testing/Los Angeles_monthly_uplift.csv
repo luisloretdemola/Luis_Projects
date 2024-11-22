@@ -1,0 +1,3 @@
+,Index_Number,year_month,treatment_region,io_count,counter_io_count,bayes_uplift,sd,perc_lift,bayes_Stat_Sig,hdi_5%,hdi_95%,mcse_mean,mcse_sd
+0,0,2024-09-01,Los Angeles,54,34.771,19.229,6.075,0.553,True,9.739,29.545,0.097,0.069
+1,1,2024-10-01,Los Angeles,39,38.083,0.917,6.63,0.0241,False,-10.34,11.312,0.11,0.082

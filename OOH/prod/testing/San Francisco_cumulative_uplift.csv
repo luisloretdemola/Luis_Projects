@@ -1,0 +1,2 @@
+,treatment_region,treatment_start,treatment_end,io_sum,counter_io_sum,bayes_uplift,sd,perc_lift,bayes_Stat_Sig,hdi_5%,hdi_95%,mcse_mean,mcse_sd
+x,San Francisco,2024-09-01,2024-10-01,80,82.372,-2.372,12.286,-0.0288,False,-22.358,17.316,0.258,0.183

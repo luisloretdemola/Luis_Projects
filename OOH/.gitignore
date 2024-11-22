@@ -1,0 +1,11 @@
+# Ignore all image files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.svg
+*.tiff
+*.ico
+*.webp
+__pycache__/

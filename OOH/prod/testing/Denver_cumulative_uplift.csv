@@ -1,0 +1,2 @@
+,treatment_region,treatment_start,treatment_end,io_sum,counter_io_sum,bayes_uplift,sd,perc_lift,bayes_Stat_Sig,hdi_5%,hdi_95%,mcse_mean,mcse_sd
+x,Denver,2024-08-01,2024-10-01,35,46.111,-11.11,8.937,-0.241,False,-25.151,3.67,0.147,0.109

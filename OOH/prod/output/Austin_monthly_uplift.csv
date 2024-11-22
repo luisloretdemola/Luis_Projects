@@ -1,0 +1,3 @@
+,Index_Number,year_month,treatment_region,io_count,counter_io_count,bayes_uplift,sd,perc_lift,bayes_Stat_Sig,hdi_5%,hdi_95%,mcse_mean,mcse_sd
+0,0,2024-09-01,Austin,21,20.396,0.604,4.291,0.0296,False,-6.414,7.7,0.069,0.054
+1,1,2024-10-01,Austin,13,22.133,-9.133,4.41,-0.4126,False,-16.363,-1.885,0.072,0.051

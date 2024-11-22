@@ -1,0 +1,4 @@
+,Index_Number,year_month,treatment_region,io_count,counter_io_count,bayes_uplift,sd,perc_lift,bayes_Stat_Sig,hdi_5%,hdi_95%,mcse_mean,mcse_sd
+0,0,2024-08-01,Denver,10,22.932000000000002,-12.932,4.713,-0.5639,False,-21.331,-5.925,0.099,0.07
+1,1,2024-09-01,Denver,13,20.991,-7.991,4.462,-0.3807,False,-15.452,-0.843,0.09,0.064
+2,2,2024-10-01,Denver,12,24.85,-12.85,5.23,-0.5171,False,-21.339,-4.32,0.124,0.087

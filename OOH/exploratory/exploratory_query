@@ -1,0 +1,16 @@
+select * from prod_ent_db.salesforce.lead limit 10;
+
+
+select * from prod_ent_db.customer_io.attributes limit 10;
+ 
+
+select distinct attribute_value from 
+    prod_ent_db.customer_io.attributes 
+    where attribute_name = '6sense_people_enrichment' or attribute_name = '6sense_company_firmographics'
+    limit 1000;
+
+select * from prod_ent_db.customer_io.attributes limit 10;  
+
+select distinct event_text from prod_ent_db.customer_io.track limit 100;
+
+select * from prod_ent_db.customer_io.track limit 10;

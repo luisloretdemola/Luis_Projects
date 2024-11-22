@@ -1,0 +1,4 @@
+,Index_Number,year_month,treatment_region,io_count,counter_io_count,bayes_uplift,sd,perc_lift,bayes_Stat_Sig,hdi_5%,hdi_95%,mcse_mean,mcse_sd
+0,0,2024-08-01,New York,161,128.768,32.232,9.555,0.2503,True,16.459,47.95,0.191,0.135
+1,1,2024-09-01,New York,141,114.334,26.666,10.15,0.2332,True,8.77,42.152,0.217,0.153
+2,2,2024-10-01,New York,119,120.685,-1.685,9.768,-0.014,False,-17.443,14.365,0.178,0.126

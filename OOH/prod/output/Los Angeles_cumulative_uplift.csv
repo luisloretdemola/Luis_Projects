@@ -1,0 +1,2 @@
+,treatment_region,treatment_start,treatment_end,io_sum,counter_io_sum,bayes_uplift,sd,perc_lift,bayes_Stat_Sig,hdi_5%,hdi_95%,mcse_mean,mcse_sd
+x,Los Angeles,2024-09-01,2024-10-01,93,73.768,19.232,9.087,0.2607,True,4.816,34.73,0.139,0.1
